@@ -54,7 +54,7 @@ The `using` statement is used to perform optimzation in memory allocation and he
   }
 ```
 &#x1F534;
-Yes, in order to use correctly `using` statement the class must implement `IDisposable` interface, and then the `Dispose()` method should be implemented. Our class then will be something like ths:
+Yes, in order to use correctly `using` statement the class is required to use `IDisposable` interface, and then to implement `Dispose()` method. Our class then will be something like ths:
 
 ```
 public class myclass:IDisposable
