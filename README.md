@@ -96,5 +96,5 @@ public class myclass:IDisposable
 
 
 ## Release notes
-Example on how to use `using` statement and use of `IDisposable` interface. More details in the project.
+Code example on how to use `using` statement and use of `IDisposable` interface. More details in the project.
 
